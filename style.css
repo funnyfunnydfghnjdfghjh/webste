@@ -1,1 +1,37 @@
 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@200..700&display=swap');
+
+
+
+
+.titl-div{
+
+
+    color:rgb(116, 91, 57);
+    background-color: beige;
+    text-align: center;
+    border-radius: 15px;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    line-height: 100px;
+    font-family:Anton ;
+    display:flex;
+}
+
+.titl-div div-cho{
+    max-height: 80px;
+    margin-left: 20px;    
+    height:50px;
+    width: 50px;
+}
+
+body{
+    background-color:rgb(217, 174, 118);
+}
+
+.body-div{
+    background-color: rgb(181, 141, 87);  
+}
